@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mohammad Masarra
 
-### 💡 ML Engineer | Data Scientist \ Computer Vision
+### 💡 ML Engineer | Data Scientist | Computer Vision
 
 I recently finished my Master’s in AI Systems at EPITA in Paris. Over the past couple of years, I’ve worked on 15+ machine learning projects—from chatbots and computer vision apps to full MLOps pipelines. During my internship at Quantlake, I helped build real-time tools used by 230+ finance clients and was rated a top 5% intern by the CEO. I enjoy turning complex ideas into working solutions and always look for ways to make tech more useful and practical.
 
