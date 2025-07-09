@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Mohammad Masarra
 
-### 💡 Machine Learning Engineer | AI Systems Specialist
+### 💡 ML Engineer | Data Scientist \ Computer Vision
 
-I’m passionate about building intelligent systems that solve real-world problems. I recently completed my Master's in Artificial Intelligence Systems at EPITA (Paris), where I led my team to win 1st place in the optimization competition. I've delivered 15+ end-to-end ML projects across computer vision, NLP, MLOps, and finance.
+I recently finished my Master’s in AI Systems at EPITA in Paris. Over the past couple of years, I’ve worked on 15+ machine learning projects—from chatbots and computer vision apps to full MLOps pipelines. During my internship at Quantlake, I helped build real-time tools used by 230+ finance clients and was rated a top 5% intern by the CEO. I enjoy turning complex ideas into working solutions and always look for ways to make tech more useful and practical.
 
 ---
 
@@ -19,8 +19,10 @@ I’m passionate about building intelligent systems that solve real-world proble
 
 ## 🚀 Projects
 
+> ⚠️ **Note**: Some projects, such as the RAG Chatbot and Economic Regime Predictor, are not publicly available due to company confidentiality.
+
 ### 🔹 AI & MLOps Systems
-- **[RAG-Based Investment Chatbot](https://github.com/Mohammad8931/Projects/tree/main/RAG%20Chatbot)**  
+- **RAG-Based Investment Chatbot** *(code not shared due to company confidentiality)*  
   FAISS + FLAN-T5 + Mistral 7B deployed on AWS Lambda to serve financial Q&A with <500ms latency.
 
 - **[Heart Disease Predictor in Production](https://github.com/Mohammad8931/Machine-Learning-Projects/tree/main/Heart%20Disease%20Classifier%20Into%20Production)**  
