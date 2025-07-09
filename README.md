@@ -10,7 +10,7 @@ During my internship at Quantlake, I contributed to tools used by over 230 finan
 
 ## Experience
 
-- **Quantitative Analyst Intern** – Quantlake, Paris  
+- **Quantitative Analyst Intern** – Quantlake
   Designed and implemented machine learning tools for financial forecasting and decision support. Developed an economic regime prediction model, a risk classification system, and an intelligent client-facing chatbot. Integrated scalable data pipelines and deployed monitoring dashboards for real-time insights.
 
 - **Mathematics and Robotics Instructor**  
